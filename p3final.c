@@ -30,5 +30,4 @@ int main()
     result=ncr(n,r); 
     output(n,r,result);
     return 0;
-}
-  
+}  
